@@ -7,5 +7,5 @@ Based on:
 - Repo
     - create `gh-pages` branch
     - Settings
-        - Pages -> source: github actions
+        - Pages -> source: branch = gh-pages
         - Actions -> General -> Workflow permissions: RW
